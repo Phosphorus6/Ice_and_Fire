@@ -3,12 +3,12 @@
   "dragon_type": "ice",
   "cook_time": 1000,
   "input": {
-    "tag": "forge:ingots/iron"
+    "tag": "forge:foods/raw_meat"
   },
   "blood": {
-    "item": "iceandfire:ice_dragon_blood"
+    "item": "minecraft:dragon_breath"
   },
   "result": {
-    "item": "iceandfire:dragonsteel_ice_ingot"
+    "item": "iceandfire:ice_dragon_flesh"
   }
 }
